@@ -1,0 +1,18 @@
+{
+  "name": "socdb-server",
+  "version": "0.0.1",
+  "description": "Server-side code for socdb apps",
+  "bin": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandro Hawke (http://hawke.org/sandro)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "browserify": "^16.1.0",
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "james-browser-launcher": "^1.3.1",
+    "s": "^0.1.1"
+  }
+}
